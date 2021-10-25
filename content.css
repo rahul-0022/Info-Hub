@@ -28,6 +28,8 @@ p {
   color: snow;
 }
 
+
+/* Styling sub point of heading for better look */
 ul {
   text-decoration: none;
   margin: 0px;
@@ -53,6 +55,8 @@ li a:hover {
   text-shadow: #fa4141 1px 1px;
 }
 
+
+/* Styling to create box for each heading */
 .cube {
   background-color: springgreen;
   border: 2px solid #000000;
@@ -61,6 +65,7 @@ li a:hover {
   text-align: center;
 }
 
+/* Styling every topic accordingly */
 #item1 {
   margin-left: 180px;
   height: 200px;
@@ -107,6 +112,9 @@ li a:hover {
   float: left;
 }
 
+
+
+/* Styling domains of skills under genres  */
 .genres {
   background-color: rgb(15, 14, 14);
   border-radius: 20px;
