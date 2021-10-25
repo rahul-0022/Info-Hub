@@ -37,10 +37,15 @@ p {
   text-align: center;
 }
 
+#item2 {
+  height: 250px;
+  width: 340px;
+  float: left;
+}
+
 #item1 {
-  margin-left: 180px;
-  height: 270px;
-  width: 250px;
+  height: 310px;
+  width: 200px;
   float: left;
 }
 
@@ -48,6 +53,12 @@ p {
   height: 200px;
   float: left;
   width: 250px;
+}
+
+#item6 {
+  height: 260px;
+  width: 300px;
+  float: left;
 }
 
 ul {
